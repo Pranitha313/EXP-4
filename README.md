@@ -36,17 +36,41 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier Model Graph, tabulation, Circuit Diagram:
 
-Bridge rectifier with filter:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f99a2752-9358-440a-9cb9-68900e866e6c" />
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+Full Wave rectifier Model Graph, tabulation, Circuit Diagram:
+
+<img width="1165" height="1600" alt="image" src="https://github.com/user-attachments/assets/2abef4e1-26e3-4d44-95b8-50a5649e9354" />
+
+Half Wave Rectifier Graph:
+
+<img width="1210" height="1577" alt="image" src="https://github.com/user-attachments/assets/76b5b89d-09e3-4757-bc54-6eeeda23bd51" />
+
+Full Wave Rectifier Graph:
+
+<img width="1192" height="1600" alt="image" src="https://github.com/user-attachments/assets/960632c7-7939-4136-b85c-117310e77606" />
 
 WAVEFORM:
 
+Half Wave rectifier:
+Without Filter -
+
+<img width="564" height="767" alt="{E156627C-5251-45B3-A5DD-8236F52591F8}" src="https://github.com/user-attachments/assets/6a9ec7d6-3458-4ac5-983e-45a42a78d69b" />
+
+With Filter - 
+
+<img width="567" height="742" alt="{8D70643F-129B-4AE7-9931-06EFA266B6FE}" src="https://github.com/user-attachments/assets/073e20cf-c706-46f2-b8b8-fa04da4962ad" />
+
+Full Wave Rectifier:
+Without Filter - 
+
+<img width="570" height="624" alt="{262AEF35-2504-4EA0-B851-9B132B5AF8B7}" src="https://github.com/user-attachments/assets/94ed676c-25d7-4913-ba0a-def7b1861df2" />
+
+With Filter -
+
+<img width="550" height="715" alt="{964D1416-B101-4DED-B911-63AFBCC10202}" src="https://github.com/user-attachments/assets/e145f3e0-06ae-495d-8a28-c417210e764b" />
 
 RESULT:
 
